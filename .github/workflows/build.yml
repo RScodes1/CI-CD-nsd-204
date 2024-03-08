@@ -6,4 +6,5 @@ jobs :
                   - run : node --version
                   - run : npm --version
                   - uses : actions/checkout@v4
+                  - run : npm ci
                   - run : node index.js
