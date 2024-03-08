@@ -19,5 +19,8 @@
   "homepage": "https://github.com/RScodes1/CI-CD-nsd-204#readme",
   "dependencies": {
     "is-even": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
   }
 }
